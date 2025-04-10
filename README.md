@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1744269185987?alt=media&token=6f66fc93-8907-47c1-ad49-1b34a97ba75a)](https://github.com/msdio/stackticon)
-</div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1744269185987?alt=media&token=6f66fc93-8907-47c1-ad49-1b34a97ba75a)](https://github.com/msdio/stackticon" />&nbsp
 
 <h3 align="center">✨ Top Language ✨</h3>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jianjianjianjianjianjianjian=anuraghazra&layout=compact)
 </div>
