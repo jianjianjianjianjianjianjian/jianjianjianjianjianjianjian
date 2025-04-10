@@ -32,11 +32,6 @@ Here are some ideas to get you started:
   <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1744269185987?alt=media&token=6f66fc93-8907-47c1-ad49-1b34a97ba75a)](https://github.com/msdio/stackticon" />&nbsp
 </div>
 
-<h3 align="center">🥕 Top Language 🥕</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?jianjianjianjianjianjianjian=anuraghazra&layout=compact" />&nbsp
-</div>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@oka1313">
