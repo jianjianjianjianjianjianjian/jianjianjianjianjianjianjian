@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨ Top Language ✨</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?jianjianjianjianjianjianjian=anuraghazra&layout=compact" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?"jianjianjianjianjianjianjian"=anuraghazra&layout=compact" />&nbsp
 </div>
